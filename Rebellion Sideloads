@@ -37,6 +37,43 @@
               "pip": 3
             }
           ]
+        },
+        {
+          "name": "Kanan Jarrus",
+          "title": "Caleb Dune, Padawan On The Run",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2024975266635059625/E53DD32FE4B5BC2734F42CB3CFA993250EB66601/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 160,
+          "speed": 2,
+          "upgrades": {
+            "Force": 2,
+            "Training": 1,
+            "Gear": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1862799656315368463/88A8C8FAD2134533CB7DA2458740817AA32C2693/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1769372527126845778/3B7F22CC3B2D0618B73D20047174ADCB978D7004/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Never Truly Blind",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975266635065910/FBF80B1182CC2FA9C4B8239229541B53E52EFAB4/",
+              "pip": 1
+            },
+            {
+              "name": "I'll Be Right Behind You!",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975266635065984/9D3E08CBEFF886AA445DA6F607FA68DFAEC10CF2/",
+              "pip": 2
+            },
+            {
+              "name": "Kanan Jarrus. Jedi Knight",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975266635066130/CE2B8ACC8DAE45D17441649B19B7DBFE41F4230E/",
+              "pip": 3
+            }
+          ]
         }
       ],
       "Operative": [
@@ -86,6 +123,88 @@
               "pip": 2
             }
           ]
+        },
+        {
+          "name": "Ezra Bridger",
+          "title": "Lothal Urchin Turned Rebel",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2024975266634975093/BBEA2711E62B57B5CA2B5C22545BB7E38B652CF1/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 95,
+          "speed": 2,
+          "upgrades": {
+            "Training": 1,
+            "Force": 2,
+            "Gear": 1,
+            "Armament": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1862799656315332307/2DF254EB8117FA4DB0BD5FCC1D631E216908D1C5/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1769372527126843912/E2E5A734EE5B94E80A0FD958170B9C1E3915A69B/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "I Need To Be More Powerful",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975266635032615/DCFC0A2C92C5F68BE9D286B5336A8F76DE3386F7/",
+              "pip": 1
+            },
+            {
+              "name": "A New Family",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975266635032709/E44609A4451761482921C7D51F1FC25397572F3E/",
+              "pip": 2
+            },
+            {
+              "name": "One. Last. Lesson",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975266635032826/3AADBE6C775DCEB626B9A8720FF6D297A4A1CBE6/",
+              "pip": 3
+            }
+          ]
+        },
+        {
+          "name": "The Mandalorian",
+          "title": "Din Djarin, Protector of the Child",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2024975266635102918/70AC044D004A561592B555EE6AB3E3E4CEAD186F/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 125,
+          "speed": 2,
+          "upgrades": {
+            "Training": 1,
+            "Gear": 2,
+            "Armament": 1,
+            "Grenades": 1,
+            "Counterpart": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1911232188923469350/773611B7BB63607A117826178D433AC00F09ED1A/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1769373009360493597/A2B535CD7291E96C2A048B0320B932103F632D6D/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Warm or Cold",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975266635102315/5CBD5E16853CCD269022CFFD14665C4C9F70F979/",
+              "pip": 1
+            },
+            {
+              "name": "Whistling Birds",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975266635102383/2E62040F7E63E6DFE0F903DE0CEB43A47386B305/",
+              "pip": 2
+            },
+            {
+              "name": "Force Healing",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975266635102436/9CABEF8F9291BA675DF67593B606741E9AD6A50D/",
+              "pip": 3
+            },
+            {
+              "name": "This Is The Way",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975266635102485/FCD7C0E9FE727940D43BB09EF0DB64D026987CED/",
+              "pip": 3
+            }
+          ]
         }
       ],
       "Heavy": [
@@ -126,6 +245,50 @@
             "unit": ["Princess Leia"]
           }
         }
+      },
+      {
+        "name": "Ezra's Lightsaber",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2024975266635033008/288DCBF4FB749BCE299D1ECE221ACE87F0EA52D9/",
+        "points": 40,
+        "restrictions": {
+          "include": {
+            "unit": ["Ezra Bridger"]
+          }
+        }
+      },
+      {
+        "name": "The Darksaber",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2024975266635102793/9C84C92D5DD1E24FA9539C7A44D7AF1EEFF4C5CC/",
+        "points": 25,
+        "restrictions": {
+          "include": {
+            "unit": ["The Mandalorian"]
+          }
+        }
+      },
+      {
+        "name": "Beskar Spear",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2024975266635102746/CB631F99831C37681F77C541D79CD62EEA81C0EE/",
+        "points": 15,
+        "restrictions": {
+          "include": {
+            "unit": ["The Mandalorian"]
+          }
+        }
+      },
+      {
+        "name": "Amban Sniper Rifle",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2024975266635102588/D31A3A5AFC8BE0608D5B26101F0D8C96F49F7B26/",
+        "flip": {
+          "name": "Amban Phase-Pulse Blaster",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2024975266635102535/EAE3CFD1363C4284062C760EE613FD8BE4B78D60/"
+        },
+        "points": 25,
+        "restrictions": {
+          "include": {
+            "unit": ["The Mandalorian"]
+          }
+        }
       }
     ],
     "Hardpoint": [
@@ -161,6 +324,47 @@
           }
         }
       }
-    ]
+    ],
+    "Gear": [
+      {
+      "name": "Whipcord Launcher",
+      "image": "http://cloud-3.steamusercontent.com/ugc/2024975266635102996/CDED4437F83198A33A6B8137DC922544E7E61C6B/",
+      "points": 2,
+      "restrictions": {
+        "include": {
+          "unit": ["The Mandalorian"]
+        }
+      }
+    },
+    {
+      "name": "Beskar Jetpack",
+      "image": "http://cloud-3.steamusercontent.com/ugc/2024975266635102690/B8A462754230F0147B2E5A2D341C6040762A4AEF/",
+      "points": 10,
+      "restrictions": {
+        "include": {
+          "unit": ["The Mandalorian"]
+        }
+      }
+    }
+  ],
+  "Counterpart": [
+    {
+      "name": "Grogu",
+      "image": "http://cloud-3.steamusercontent.com/ugc/2024975266635102856/575B054129626B7F97D143B3BB0C56C68433E3F8/",
+      "points": 20,
+      "upgrades": {
+        "Force": 1
+      },
+      "mini": {
+        "mesh": "http://cloud-3.steamusercontent.com/ugc/1911232188923468695/3B7C1D21C89BD85CDD362AE6B68ED2DC2DFC918C/",
+        "diffuse": "http://cloud-3.steamusercontent.com/ugc/1769373009360592789/66675A771D6A87D7A6B2C5F4EFC25DE464B62A60/"
+      },
+      "restrictions": {
+        "include": {
+          "unit": ["The Mandalorian"]
+        }
+      }
+    }
+  ]
   }
 }
