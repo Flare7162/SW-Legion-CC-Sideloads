@@ -1,5 +1,163 @@
 {
   "units": {
+    "Empire": {
+      "Commander":[
+        {
+          "name": "Clone Commander Appo",
+          "title": "CC-1119",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2024975266638190718/040521B9052E47087CEB506D8F4541E3B3A317FB/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 80,
+          "speed": 2,
+          "upgrades": {
+            "Command": 1,
+            "Training": 1,
+            "Gear": 1
+          },
+          "minis":[
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1862817412082883073/99D15B06205C5254C77846C6DC35DC8E237D033F/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077069177/E5EA949765686F3A65D1A70DAAE04C5F92623A31/"
+            } 
+          ]
+        },
+        {
+          "name": "Grand Admiral Thrawn",
+          "title": "Chiss Grand Admiral",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2024975266638202217/C174AE593906B4A0314EA44FD9BDA40B187139B4/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 135,
+          "speed": 2,
+          "upgrades": {
+            "Command": 3,
+            "Training": 1,
+            "Comms": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696984835715973/AEB3B9B8174C7448DCFD38C40F9C9990E74E0269/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1769372527126893134/C7DE520D0703F23595094C2FEADA7711DF1BFABA/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Obliterate Them",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975266638202111/3BA9BD1DB26B861FF0E1797FBD03C15F2D52D5DF/",
+              "pip": 1
+            },
+            {
+              "name": "I Require Results, Not Glory",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975266638201996/44C76F9F2A5CFA3783F5485EA4FA7C278F8591C1/",
+              "pip": 2
+            },
+            {
+              "name": "Artistically Done",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975266638201840/78C794FEF0B661651F906972D5E24E288B5ACF6C/",
+              "pip": 3
+            }
+          ]
+        }
+      ],
+      "Operative": [
+        {
+          "name": "Mara Jade",
+          "title": "The Emperor's Hand",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2024975266638244998/EF441A95AC1196EF1B1C2607C28E78DA852DD761/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 150,
+          "speed": 2,
+          "upgrades": {
+            "Force": 1,
+            "Training": 1,
+            "Comms": 1,
+            "Gear": 1,
+            "Flaw": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1862799479787747394/783A877C2104FBDDDF613E3DD539279FB762BA0A/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1769372527126899742/C0733956C0A532113703B96DFCC7D94A383E72B5/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "The Emperor's Hand",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975266638255362/689580D6D255A3498817CAD00A84E9D99F09C6C3/",
+              "pip": 1
+            },
+            {
+              "name": "Unwilling Cooperation",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975266638255451/04E265B7FE71FDEAAF436B124FE306217AFBB915/",
+              "pip": 2
+            },
+            {
+              "name": "Figuring Things Out",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975266638255362/689580D6D255A3498817CAD00A84E9D99F09C6C3/",
+              "pip": 3
+            }
+          ],
+          "required": ["You Will Kill Luke Skywalker!"]
+        },
+        {
+          "name": "Starkiller",
+          "title": "Rogue Apprentice",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2024975266638346116/FBBC62CAC33775FB3533A5D265C89003C75E8A30/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 160,
+          "speed": 2,
+          "upgrades": {
+            "Force": 2,
+            "Training": 2
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1862799479788001225/DDAFB04ADADD0CD4E2FD88287EE7B3E7A846D1C4/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1769372527126899116/60F64A1B674FA378EEFA35565E648707139CEB42/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Starkiller's Rage",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975266638346320/CF8470CF13E0E69F6DC80D7D845C006D3CC01877/",
+              "pip": 1
+            },
+            {
+              "name": "The Darkness Within",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975266638346408/A0A1903CDB978E39F057DB875DC8425546DB626B/",
+              "pip": 2
+            },
+            {
+              "name": "The Force Unleashed",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975266638346487/F338110E38B322108D93F32E6C113157EAF7527A/",
+              "pip": 3
+            }
+          ]
+        }
+      ],
+      "Support":[
+      {          
+      "name": "Imperial Probe Droid",
+      "image": "http://cloud-3.steamusercontent.com/ugc/2024975266638244998/EF441A95AC1196EF1B1C2607C28E78DA852DD761/",
+      "size": "small",
+      "type": "Repulsor Vehicle",
+      "points": 70,
+      "speed": 1,
+      "upgrades": {
+        "Comms": 1
+      },
+      "minis": [
+        {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942555278459/F80279F35DD032145FE923863FABAA76D1AA17E7/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1769372527126890650/1762EF81F84F375D336F508A10CF462D00E48569/"
+        }
+      ]
+    }
+    ]
+    },
     "Rebel": {
       "Commander":[
         {
@@ -205,6 +363,82 @@
               "pip": 3
             }
           ]
+        },
+        {
+          "name": "Mara Jade",
+          "title": "The Emperor's Hand",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2024975266638244998/EF441A95AC1196EF1B1C2607C28E78DA852DD761/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 150,
+          "speed": 2,
+          "upgrades": {
+            "Force": 1,
+            "Training": 1,
+            "Comms": 1,
+            "Gear": 1,
+            "Flaw": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1862799479787747394/783A877C2104FBDDDF613E3DD539279FB762BA0A/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1769372527126899742/C0733956C0A532113703B96DFCC7D94A383E72B5/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "The Emperor's Hand",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975266638255362/689580D6D255A3498817CAD00A84E9D99F09C6C3/",
+              "pip": 1
+            },
+            {
+              "name": "Unwilling Cooperation",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975266638255451/04E265B7FE71FDEAAF436B124FE306217AFBB915/",
+              "pip": 2
+            },
+            {
+              "name": "Figuring Things Out",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975266638255362/689580D6D255A3498817CAD00A84E9D99F09C6C3/",
+              "pip": 3
+            }
+          ],
+          "required": ["You Will Kill Luke Skywalker!"]
+        },
+        {
+          "name": "Starkiller",
+          "title": "Rogue Apprentice",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2024975266638346116/FBBC62CAC33775FB3533A5D265C89003C75E8A30/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 160,
+          "speed": 2,
+          "upgrades": {
+            "Force": 2,
+            "Training": 2
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1862799479788001225/DDAFB04ADADD0CD4E2FD88287EE7B3E7A846D1C4/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1769372527126899116/60F64A1B674FA378EEFA35565E648707139CEB42/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Starkiller's Rage",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975266638346320/CF8470CF13E0E69F6DC80D7D845C006D3CC01877/",
+              "pip": 1
+            },
+            {
+              "name": "The Darkness Within",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975266638346408/A0A1903CDB978E39F057DB875DC8425546DB626B/",
+              "pip": 2
+            },
+            {
+              "name": "The Force Unleashed",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975266638346487/F338110E38B322108D93F32E6C113157EAF7527A/",
+              "pip": 3
+            }
+          ]
         }
       ],
       "Heavy": [
@@ -365,6 +599,40 @@
         }
       }
     }
-  ]
+  ],
+  "Flaw":[
+      {
+        "name": "You Will Kill Luke Skywalker!",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2024975266638255583/9C127D1F58E93DC741C57C76EADD9F4378E7CE8A/",
+        "points": 0
+      }
+  ],
+  "Force": [      
+  {
+    "name": "Force Heal",
+    "image": "http://cloud-3.steamusercontent.com/ugc/2024975266635217980/DD04A0B01E41B5D71E1AEC247DB740D52A686B5C/",
+    "points": 10,
+    "restrictions": {
+      "include": {
+        "alignment": ["Light"]
+      }
+    }
+  },
+  {
+    "name": "Force Drain",
+    "image": "http://cloud-3.steamusercontent.com/ugc/2024975266635217897/0F92FEFC402F309BA6803F56EFC7DB3661B0158A/",
+    "points": 10,
+    "restrictions": {
+      "include": {
+        "alignment": ["Dark"]
+      }
+    }
+  },
+  {
+    "name": "Tutaminis",
+    "image": "http://cloud-3.steamusercontent.com/ugc/2024975266635218090/E685DBEA79335B1D07292EB4F5EA2361D566892D/",
+    "points": 20
+      }
+]
   }
 }
