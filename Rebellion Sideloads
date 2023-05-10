@@ -1,0 +1,71 @@
+{
+  "units": {
+    "Rebel": {
+      "Heavy": [
+        {
+          "name": "Stolen LAAT",
+          "title": "Low Altitude Transport",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2024975266634707489/B89681982F346A046946F17A1310E42DC014FB5D/",
+          "size": "epic",
+          "type": "Repulsor Vehicle",
+          "points": 180,
+          "speed": 2,
+          "upgrades": {
+            "Pilot": 1,
+            "Personnel": 2,
+            "Hardpoint": 1,
+            "Comms": 1
+          },
+        
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1028454854943442054/64C9040DF30E7980A9E9F22FD7A56D5C84052167/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394080710037/5370F3F4D3837B8CF9E0A84794355A29F95919C1/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "upgrades": {
+    "Hardpoint": [
+            {
+      "name": "Open Heavy Blast Doors",
+      "image": "http://cloud-3.steamusercontent.com/ugc/2024975266634772348/25BAEDFCACA1026356092B47D9CA63272DD38883/",
+      "points": 0,
+      "restrictions": {
+        "include": {
+          "unit": ["Stolen LAAT"]
+        }
+      }
+    },
+    {
+      "name": "Closed Heavy Blast Doors",
+      "image": "http://cloud-3.steamusercontent.com/ugc/2024975266634775847/9FD0E488B7D6C8FA66ED974AF2D50A723ED903A4/",
+      "points": 0,
+      "restrictions": {
+        "include": {
+          "unit": ["Stolen LAAT"]
+        }
+      }
+    }
+  ],
+    "Heavy Weapon": [],
+    "Ordnance": [],
+    "Pilot": [
+      {
+        "name": "Rebel Pilot Commander",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2024975266634730622/E8BC648BC11B219DBED6D4EF874B1D82B641DA73/",
+        "points": 20,
+        "restrictions": {
+          "include": {
+            "unit": ["Stolen LAAT"]
+          }
+        }
+      }
+    ],
+    "Programming": [],
+    "Training": []
+  }
+}
