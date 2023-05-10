@@ -8,7 +8,8 @@
     "points": 10,
     "restrictions": {
       "include": {
-        "alignment": ["Light"]
+        "alignment": ["Light"],
+        "slot": ["Force"]
       }
     }
   },
@@ -18,15 +19,21 @@
     "points": 10,
     "restrictions": {
       "include": {
-        "alignment": ["Dark"]
+        "alignment": ["Dark"],
+        "slot": ["Force"]
       }
     }
   },
   {
     "name": "Tutaminis",
     "image": "http://cloud-3.steamusercontent.com/ugc/2024975266635218090/E685DBEA79335B1D07292EB4F5EA2361D566892D/",
-    "points": 20
+    "points": 20,
+    "restrictions": {
+      "include": {
+        "slot": ["Force"]
       }
+    }
+  }
 ]
 }
   }
