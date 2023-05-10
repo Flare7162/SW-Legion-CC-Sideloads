@@ -1,12 +1,50 @@
 {
   "units": {
     "Rebel": {
+      "Commander":[
+        {
+          "name": "Obi-Wan Kenobi",
+          "title": "Old Ben",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2024975266634882387/D67BA4F42249EBB6E9CE3C1A1DB25F940FC6A92F/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 150,
+          "speed": 2,
+          "upgrades": {
+            "Force": 3,
+            "Comms": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1862799656305768661/3ED15B7CD53E3F8E07E69DB598251ECB6EA644CB/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1769372527126837152/F55D98E0479A458EE218888245CCE679CAF5F7C2/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "It Binds The Galaxy Together",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975266634907571/8BD8EC692BD7D5379D1FC45C3FF77CD847336FD8/",
+              "pip": 1
+            },
+            {
+              "name": "I'll Deactivate The Tractor Beam",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975266634907669/EC43B375F614A6A8296E375CE1711F031B7C8D33/",
+              "pip": 2
+            },
+            {
+              "name": "Strike Me Down",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975266634907784/A1FE48CE602F03DB7C332B6209514A43E3CA8065/",
+              "pip": 3
+            }
+          ]
+        }
+      ],
       "Heavy": [
         {
           "name": "Stolen LAAT",
           "title": "Low Altitude Transport",
           "image": "http://cloud-3.steamusercontent.com/ugc/2024975266634707489/B89681982F346A046946F17A1310E42DC014FB5D/",
-          "size": "laat",
+          "size": "epic",
           "type": "Repulsor Vehicle",
           "points": 180,
           "speed": 2,
@@ -51,8 +89,6 @@
       }
     }
   ],
-    "Heavy Weapon": [],
-    "Ordnance": [],
     "Pilot": [
       {
         "name": "Rebel Pilot Commander",
@@ -64,8 +100,6 @@
           }
         }
       }
-    ],
-    "Programming": [],
-    "Training": []
+    ]
   }
 }
