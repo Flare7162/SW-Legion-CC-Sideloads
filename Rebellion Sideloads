@@ -171,11 +171,11 @@
           "points": 125,
           "speed": 2,
           "upgrades": {
+            "Counterpart": 1,
             "Training": 1,
             "Gear": 2,
             "Armament": 1,
-            "Grenades": 1,
-            "Counterpart": 1
+            "Grenades": 1
           },
           "minis": [
             {
