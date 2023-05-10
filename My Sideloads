@@ -141,13 +141,13 @@
       "Support":[
       {          
       "name": "Imperial Probe Droid",
-      "image": "http://cloud-3.steamusercontent.com/ugc/2024975266638244998/EF441A95AC1196EF1B1C2607C28E78DA852DD761/",
+      "image": "http://cloud-3.steamusercontent.com/ugc/2024975266638784807/67CF2EE07F1507C0E4FA3A75A7CFB1C1A105B320/",
       "size": "small",
-      "type": "Repulsor Vehicle",
-      "points": 70,
+      "type": "Trooper",
+      "points": 60,
       "speed": 1,
       "upgrades": {
-        "Comms": 1
+        "Comms": 2
       },
       "minis": [
         {
