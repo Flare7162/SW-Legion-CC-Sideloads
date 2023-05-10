@@ -1,15 +1,14 @@
 {
   "units": {
-"upgrades": {
-  "Force": [
+  "upgrades": {
+    "Force": [
   {
     "name": "Force Heal",
     "image": "http://cloud-3.steamusercontent.com/ugc/2024975266635217980/DD04A0B01E41B5D71E1AEC247DB740D52A686B5C/",
     "points": 10,
     "restrictions": {
       "include": {
-        "alignment": ["Light"],
-        "slot": ["Force"]
+        "alignment": ["Light"]
       }
     }
   },
@@ -19,22 +18,17 @@
     "points": 10,
     "restrictions": {
       "include": {
-        "alignment": ["Dark"],
-        "slot": ["Force"]
+        "alignment": ["Dark"]
       }
     }
   },
   {
     "name": "Tutaminis",
     "image": "http://cloud-3.steamusercontent.com/ugc/2024975266635218090/E685DBEA79335B1D07292EB4F5EA2361D566892D/",
-    "points": 20,
-    "restrictions": {
-      "include": {
-        "slot": ["Force"]
+    "points": 20
       }
-    }
+    ]
   }
-]
-}
+
   }
 }
