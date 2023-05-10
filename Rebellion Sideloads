@@ -51,13 +51,39 @@
           "upgrades": {
             "Training": 2,
             "Comms": 1,
-            "Gear": 1,
-            "Armament": 2
+            "Gear": 1
           },
           "minis": [
             {
               "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540540669649/C440F429AB1182944D329D0C16C3402DB731CA87/",
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540540669835/B4E395AA781518EAC4FBFFCB27BAA646201F411C/"
+            }
+          ]
+        },
+        {
+          "name": "Princess Leia",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2024975266634975093/BBEA2711E62B57B5CA2B5C22545BB7E38B652CF1/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 80,
+          "speed": 2,
+          "upgrades": {
+            "Training": 1,
+            "Comms": 1,
+            "Gear": 1,
+            "Armament": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942562872791/A6AC7E03DFAB84E60481B82455FE693952E31AB5/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077744672/48AE837213603717D2CA21493D9468EF8CF76B40/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Here They Come!",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975266634991087/A56739BD00F13A6A9D4F3028F9D74CDCC6BAF247/",
+              "pip": 2
             }
           ]
         }
@@ -90,8 +116,20 @@
   },
 
   "upgrades": {
+    "Armament":[
+      {
+        "name": "Stolen E-11 Blaster Rifle",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2024975266634986109/C11B5E54B95DEBCDD8957C7EAA2711717D680BC5/",
+        "points": 20,
+        "restrictions": {
+          "include": {
+            "unit": ["Princess Leia"]
+          }
+        }
+      }
+    ],
     "Hardpoint": [
-            {
+    {
       "name": "Open Heavy Blast Doors",
       "image": "http://cloud-3.steamusercontent.com/ugc/2024975266634772348/25BAEDFCACA1026356092B47D9CA63272DD38883/",
       "points": 0,
