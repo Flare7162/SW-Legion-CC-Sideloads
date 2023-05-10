@@ -272,7 +272,7 @@
         "points": 15,
         "restrictions": {
           "include": {
-            "unit": ["The Mandalorian"]
+            "unit": ["The Mandalorian", "Sabine Wren"]
           }
         }
       },
