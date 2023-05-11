@@ -58,6 +58,42 @@
               "pip": 3
             }
           ]
+        },
+        {
+          "name": "Prince Xizor",
+          "title": "Prince of The Black Sun Clan",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106867777/C4E9B348C76482870BF2BCE3214F3133BBCDD603/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 90,
+          "speed": 2,
+          "upgrades": {
+            "Command": 2,
+            "Gear": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1862799656310671447/28E3AFAFF02CB32BDDE836D8AAE8B21DC9855DC3/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1769373009360430513/E7DE176D4D14C71C5F802B7A16423544400464A9/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Irresistable",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106867871/64DD39D5CE7B1C6930CF78070A09D5D0756E0B69/",
+              "pip": 1
+            },
+            {
+              "name": "Achieve My Ambition",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106867956/2FB3A79F997C6B6ABD06DD0C29783C33387EB9C4/",
+              "pip": 2
+            },
+            {
+              "name": "Shadows Of The Empire",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106868043/F4F3267300B913E47320500F49B01A953B32A930/",
+              "pip": 3
+            }
+          ]
         }
       ],
       "Operative": [
@@ -134,6 +170,70 @@
               "name": "The Force Unleashed",
               "image": "http://cloud-3.steamusercontent.com/ugc/2024975266638346487/F338110E38B322108D93F32E6C113157EAF7527A/",
               "pip": 3
+            }
+          ]
+        },
+        {
+          "name": "Dengar",
+          "title": "Payback",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106699239/AB698690450CE6F8B41672D8B1BA5BB447B09A36/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 100,
+          "speed": 2,
+          "upgrades": {
+            "Training": 2,
+            "Comms": 1,
+            "Gear": 2
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696737982050300/7F58F09A4EBE2B1D4036CA35ECD771FAC087027F/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1769373009360440653/F41E262F1552C7A58277088F01DBDA6AE84D8B0C/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "'Ello Darlin'",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106717052/B6971756C7183000ADF271C873A8861F29A708D9/",
+              "pip": 1
+            },
+            {
+              "name": "Credits Are Saying My Name",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106717124/E83771F063ACACF71760A79DCF11190C13444784/",
+              "pip": 2
+            },
+            {
+              "name": "Better In A Crew",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106717187/CF91E415E25B60F93074E7CB924461A0EA931C52/",
+              "pip": 3
+            }
+          ]
+        },
+        {
+          "name": "Bothan Spy",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106881786/59C79D4EA7A016DEBB5C3BCDCA0E68E75C15A222/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 70,
+          "speed": 2,
+          "upgrades": {
+            "Training": 1,
+            "Comms": 1,
+            "Gear": 1,
+            "Armament": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696827921294677/7ED1710E556EA4BBD703683B0A3E09FD6613529D/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1769372527126814208/C7ADACCB402B333A0574932528C0B5A40787A9CD/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "The Bothan Spy Network",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106882042/60B8BFE8AF02562EEE3E343706D3D4D21BBC5968/",
+              "pip": 2
             }
           ]
         }
@@ -439,6 +539,70 @@
               "pip": 3
             }
           ]
+        },
+        {
+          "name": "Dengar",
+          "title": "Payback",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106699239/AB698690450CE6F8B41672D8B1BA5BB447B09A36/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 100,
+          "speed": 2,
+          "upgrades": {
+            "Training": 2,
+            "Comms": 1,
+            "Gear": 2
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696737982050300/7F58F09A4EBE2B1D4036CA35ECD771FAC087027F/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1769373009360440653/F41E262F1552C7A58277088F01DBDA6AE84D8B0C/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "'Ello Darlin'",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106717052/B6971756C7183000ADF271C873A8861F29A708D9/",
+              "pip": 1
+            },
+            {
+              "name": "Credits Are Saying My Name",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106717124/E83771F063ACACF71760A79DCF11190C13444784/",
+              "pip": 2
+            },
+            {
+              "name": "Better In A Crew",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106717187/CF91E415E25B60F93074E7CB924461A0EA931C52/",
+              "pip": 3
+            }
+          ]
+        },
+        {
+          "name": "Bothan Spy",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106881786/59C79D4EA7A016DEBB5C3BCDCA0E68E75C15A222/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 70,
+          "speed": 2,
+          "upgrades": {
+            "Training": 1,
+            "Comms": 1,
+            "Gear": 1,
+            "Armament": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696827921294677/7ED1710E556EA4BBD703683B0A3E09FD6613529D/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1769372527126814208/C7ADACCB402B333A0574932528C0B5A40787A9CD/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "The Bothan Spy Network",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106882042/60B8BFE8AF02562EEE3E343706D3D4D21BBC5968/",
+              "pip": 2
+            }
+          ]
         }
       ],
       "Heavy": [
@@ -461,6 +625,168 @@
             {
               "mesh": "http://cloud-3.steamusercontent.com/ugc/1028454854943442054/64C9040DF30E7980A9E9F22FD7A56D5C84052167/",
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394080710037/5370F3F4D3837B8CF9E0A84794355A29F95919C1/"
+            }
+          ]
+        }
+      ]
+    },
+    "Separatist": {
+      "Commander":[
+        {
+          "name": "Admiral Trench",
+          "title": "Invulnerable Cyborg",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106802671/0A538B375A761B90F353EA3E8FE7E2C0712B5FAB/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 85,
+          "speed": 2,
+          "upgrades": {
+            "Command": 2,
+            "Gear": 1,
+            "Armament": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1862799479791809176/F8746F30959E9A5F3C31F8A15A08E47D5A90BFEE/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1769372527126160192/BA2CD49DCD9FCBD4487B995B53297A63EAEF26D5/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Invincible",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106802416/E179ED5794437847BBFBCD57A3F71417508DF0A4/",
+              "pip": 1
+            },
+            {
+              "name": "Acceptable Losses",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106802506/AD3E9B6526C465BBB6DD019621AD712648F2DDF5/",
+              "pip": 2
+            },
+            {
+              "name": "I Smell Fear...",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106802577/220E75CE4489699BBF35A0583772E8F79B6DFE9B/",
+              "pip": 3
+            }
+          ]
+        }
+      ],
+      "Operative": [
+        {
+          "name": "Dengar",
+          "title": "Payback",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106699239/AB698690450CE6F8B41672D8B1BA5BB447B09A36/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 100,
+          "speed": 2,
+          "upgrades": {
+            "Training": 2,
+            "Comms": 1,
+            "Gear": 2
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696737982050300/7F58F09A4EBE2B1D4036CA35ECD771FAC087027F/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1769373009360440653/F41E262F1552C7A58277088F01DBDA6AE84D8B0C/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "'Ello Darlin'",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106717052/B6971756C7183000ADF271C873A8861F29A708D9/",
+              "pip": 1
+            },
+            {
+              "name": "Credits Are Saying My Name",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106717124/E83771F063ACACF71760A79DCF11190C13444784/",
+              "pip": 2
+            },
+            {
+              "name": "Better In A Crew",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106717187/CF91E415E25B60F93074E7CB924461A0EA931C52/",
+              "pip": 3
+            }
+          ]
+        }
+      ]
+    },
+    "Republic": {
+      "Commander":[
+        {
+          "name": "Clone Commander Fordo",
+          "title": "Defender Of Coruscant",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106839313/FE289F8D8F4CBAB2961D49FDDD05CA20E6CB091F/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 125,
+          "speed": 2,
+          "upgrades": {
+            "Commander": 1,
+            "Training": 1,
+            "Comms": 1,
+            "Gear": 2,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/767228764785646423/F890985F1B31042E0BC10996930089A3A22BE5C5/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/767228764785647603/8F9ADBD1429C1AF247858C877548E15E5996F4A9/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Defend This Position!",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106839177/171ECEFE259D11FE478D6B338C10E284BE3CCF35/",
+              "pip": 1
+            },
+            {
+              "name": "Keep Up The Pressure On Our Right",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106839493/A3024955C0112ABCF6C31499714FFF652BFDF3ED/",
+              "pip": 2
+            },
+            {
+              "name": "We Are Being Overrun!",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106839602/D407A3570732E62B264A9428C27DDDBEF0D675B0/",
+              "pip": 3
+            }
+          ]
+        }
+      ],
+      "Operative": [
+        {
+          "name": "Dengar",
+          "title": "Payback",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106699239/AB698690450CE6F8B41672D8B1BA5BB447B09A36/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 100,
+          "speed": 2,
+          "upgrades": {
+            "Training": 2,
+            "Comms": 1,
+            "Gear": 2
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696737982050300/7F58F09A4EBE2B1D4036CA35ECD771FAC087027F/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1769373009360440653/F41E262F1552C7A58277088F01DBDA6AE84D8B0C/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "'Ello Darlin'",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106717052/B6971756C7183000ADF271C873A8861F29A708D9/",
+              "pip": 1
+            },
+            {
+              "name": "Credits Are Saying My Name",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106717124/E83771F063ACACF71760A79DCF11190C13444784/",
+              "pip": 2
+            },
+            {
+              "name": "Better In A Crew",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106717187/CF91E415E25B60F93074E7CB924461A0EA931C52/",
+              "pip": 3
             }
           ]
         }
@@ -521,6 +847,26 @@
         "restrictions": {
           "include": {
             "unit": ["The Mandalorian"]
+          }
+        }
+      },
+      {
+        "name": "Electro-Web Launcher",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106802624/C2B6531C39EA130C09F9486EA66E5ADA0A45EBC1/",
+        "points": 5,
+        "restrictions": {
+          "include": {
+            "unit": ["Admiral Trench"]
+          }
+        }
+      },
+      {
+        "name": "Timed Thermal Detonator",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106881671/FA42A886C187ED8BE9D7F48321CBBC7A52764ADB/",
+        "points": 30,
+        "restrictions": {
+          "include": {
+            "unit": ["Bothan Spy"]
           }
         }
       }
