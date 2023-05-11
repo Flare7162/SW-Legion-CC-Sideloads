@@ -332,6 +332,45 @@
               "pip": 3
             }
           ]
+        },
+        {
+          "name": "Bo-Katan Kryze",
+          "title": "The Cursed Heiress",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106930620/B985D03C96100A2697CC2D8C35C7613934ED3496/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 120,
+          "speed": 2,
+          "upgrades": {
+            "Training": 2,
+            "Gear": 2,
+            "Armament": 1,
+            "Flaw": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1862799656313531267/DEE86748ADB9275A3681DE29E5E36C2228980D76/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1769373009360480633/7CE80D5871189FB146103EB2BB01BC7000A0659D/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "What is Rightfully Mine",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106930741/BD46D6EF8A84AB67B0C54C51118C7AD45D182D0F/",
+              "pip": 1
+            },
+            {
+              "name": "The Enemy of my Enemy is my Friend",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106930941/20BE763EE465EC679DB4F2268E918AB9923350BA/",
+              "pip": 2
+            },
+            {
+              "name": "Commitment To Mandalore",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106931031/4B6A9B4D972E8CC8ECE4C91762102A784E560400/",
+              "pip": 3
+            }
+          ],
+          "required": ["A Cautionary Tale"]
         }
       ],
       "Operative": [
@@ -668,6 +707,45 @@
               "pip": 3
             }
           ]
+        },
+        {
+          "name": "Bo-Katan Kryze",
+          "title": "The Cursed Heiress",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106930620/B985D03C96100A2697CC2D8C35C7613934ED3496/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 120,
+          "speed": 2,
+          "upgrades": {
+            "Training": 2,
+            "Gear": 2,
+            "Armament": 1,
+            "Flaw": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1862799656313531267/DEE86748ADB9275A3681DE29E5E36C2228980D76/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1769373009360480633/7CE80D5871189FB146103EB2BB01BC7000A0659D/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "What is Rightfully Mine",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106930741/BD46D6EF8A84AB67B0C54C51118C7AD45D182D0F/",
+              "pip": 1
+            },
+            {
+              "name": "The Enemy of my Enemy is my Friend",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106930941/20BE763EE465EC679DB4F2268E918AB9923350BA/",
+              "pip": 2
+            },
+            {
+              "name": "Commitment To Mandalore",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106931031/4B6A9B4D972E8CC8ECE4C91762102A784E560400/",
+              "pip": 3
+            }
+          ],
+          "required": ["A Cautionary Tale"]
         }
       ],
       "Operative": [
@@ -721,7 +799,7 @@
           "points": 125,
           "speed": 2,
           "upgrades": {
-            "Commander": 1,
+            "Command": 1,
             "Training": 1,
             "Comms": 1,
             "Gear": 2,
@@ -750,6 +828,45 @@
               "pip": 3
             }
           ]
+        },
+        {
+          "name": "Bo-Katan Kryze",
+          "title": "The Cursed Heiress",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106930620/B985D03C96100A2697CC2D8C35C7613934ED3496/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 120,
+          "speed": 2,
+          "upgrades": {
+            "Training": 2,
+            "Gear": 2,
+            "Armament": 1,
+            "Flaw": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1862799656313531267/DEE86748ADB9275A3681DE29E5E36C2228980D76/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1769373009360480633/7CE80D5871189FB146103EB2BB01BC7000A0659D/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "What is Rightfully Mine",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106930741/BD46D6EF8A84AB67B0C54C51118C7AD45D182D0F/",
+              "pip": 1
+            },
+            {
+              "name": "The Enemy of my Enemy is my Friend",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106930941/20BE763EE465EC679DB4F2268E918AB9923350BA/",
+              "pip": 2
+            },
+            {
+              "name": "Commitment To Mandalore",
+              "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106931031/4B6A9B4D972E8CC8ECE4C91762102A784E560400/",
+              "pip": 3
+            }
+          ],
+          "required": ["A Cautionary Tale"]
         }
       ],
       "Operative": [
@@ -869,6 +986,16 @@
             "unit": ["Bothan Spy"]
           }
         }
+      },
+      {
+        "name": "The Darksaber",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106931156/88EFB28AFB0DDCD41CCE4586363ACEF27BAC84D3/",
+        "points": 0,
+        "restrictions": {
+          "include": {
+            "unit": ["Bo-Katan Kryze"]
+          }
+        }
       }
     ],
     "Hardpoint": [
@@ -925,6 +1052,26 @@
           "unit": ["The Mandalorian"]
         }
       }
+    },
+    {
+      "name": "Fordo's Wrist Taser",
+      "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106911370/E8DF8B01569576B7D60D2EECC3F337954B35AFB1/",
+      "points": 17,
+      "restrictions": {
+        "include": {
+          "unit": ["Clone Commander Fordo"]
+        }
+      }
+    },
+    {
+      "name": "Bo-Katan's Combat Shield",
+      "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106931252/7F72C38EBDB14387C0DA85495952DD16F1EE8AE6/",
+      "points": 5,
+      "restrictions": {
+        "include": {
+          "unit": ["Bo-Katan Kryze"]
+        }
+      }
     }
   ],
   "Counterpart": [
@@ -950,6 +1097,11 @@
       {
         "name": "You Will Kill Luke Skywalker!",
         "image": "http://cloud-3.steamusercontent.com/ugc/2024975266638255583/9C127D1F58E93DC741C57C76EADD9F4378E7CE8A/",
+        "points": 0
+      },
+      {
+        "name": "A Cautionary Tale",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2024975358106931328/DDEFEF3D1BA912474557FA0F3DBF588D0CF1245F/",
         "points": 0
       }
   ],
