@@ -2791,6 +2791,7 @@
           "points": 110,
           "speed": 1,
           "upgrades": {
+            "Personnel": 1,
             "Comms": 1
           },
           "minis": [
